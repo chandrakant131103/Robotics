@@ -7,4 +7,11 @@ LINE DIAGRAM OF TWO LINKS - ASSIGMNENT 1
 
 <img width="1536" height="802" alt="Figure_2" src="https://github.com/user-attachments/assets/35a0ff49-4191-43e7-b523-dc6fcff9ecfa" />
 
+--- Coordinates after 45� Rotation ---
+Bottom Left: (21.21, 35.36)
+Bottom Right: (28.28, 42.43)
+Top Right: (14.14, 56.57)
+Peak: (3.54, 60.10)
+Top Left: (14.14, 42.43)
+
 ASSIGNMENT 2 ROTATION OF HUT
