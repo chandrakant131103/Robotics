@@ -17,11 +17,39 @@ Top Left: (14.14, 42.43)
 ASSIGNMENT 2 ROTATION OF HUT
 
 
-
-
-
 <img width="1536" height="754" alt="figure 3 2" src="https://github.com/user-attachments/assets/49d52f35-3c7f-458e-baec-ea7b1064ebb8" />
 
 <img width="1536" height="754" alt="figure 3" src="https://github.com/user-attachments/assets/20953242-10ff-44c2-a016-20152825c6d4" />
 
 ROTATION OF HUT RELATIVE - ASSIGNMENT 3 PUJA THALI
+
+
+
+
+
+
+
+
+<img width="600" height="600" alt="Figure_4(2)" src="https://github.com/user-attachments/assets/3bfcf585-9fff-4af0-865e-60bd368161a4" />
+
+<img width="600" height="600" alt="Figure_4" src="https://github.com/user-attachments/assets/1ceb5cd9-904d-4ebb-ad1c-5db576f87c04" />
+
+
+ASSIGNMENT 4 ROTATION OF 3 CONNECTED LINK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSIGNMENT 4 ROTATION OF 3 CONNECTED LINK
