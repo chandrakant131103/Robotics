@@ -41,6 +41,9 @@ ASSIGNMENT 4 ROTATION OF 3 CONNECTED LINK
 
 
 
+<img width="1536" height="754" alt="Figure_5" src="https://github.com/user-attachments/assets/887057b2-d7ea-4c6f-aecd-9dbf1efe9e64" />
+
+S CURVE ROTATION ASSIGMNENT 5
 
 
 
@@ -50,6 +53,3 @@ ASSIGNMENT 4 ROTATION OF 3 CONNECTED LINK
 
 
 
-
-
-ASSIGNMENT 4 ROTATION OF 3 CONNECTED LINK
