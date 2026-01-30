@@ -1,0 +1,35 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.animation import FuncAnimation
+
+# Link lengths
+L = [3, 2, 1] 
+
+fig, ax = plt.subplots(figsize=(6,6))
+ax.set_xlim(-7, 7)
+ax.set_ylim(-7, 7)
+ax.grid(True)
+line, = ax.plot([], [], 'o-', lw=4, markersize=10, color='royalblue')
+time_text = ax.text(0.05, 0.9, '', transform=ax.transAxes)
+
+def animate(i):
+    # Angles change over time (in radians)
+    t1 = np.deg2rad(i * 5)
+    t2 = np.deg2rad(i * 10)
+    t3 = np.deg2rad(i * 15)
+    
+    # Calculate coordinates
+    x0, y0 = 0, 0
+    x1, y1 = L[0] * np.cos(t1), L[0] * np.sin(t1)
+    x2, y2 = x1 + L[1] * np.cos(t1 + t2), y1 + L[1] * np.sin(t1 + t2)
+    x3, y3 = x2 + L[2] * np.cos(t1 + t2 + t3), y2 + L[2] * np.sin(t1 + t2 + t3)
+    
+    line.set_data([x0, x1, x2, x3], [y0, y1, y2, y3])
+    time_text.set_text(f'Angles: θ1={i*5}°, θ2={i*10}°, θ3={i*15}°')
+    return line, time_text
+
+# 500ms delay between frames
+ani = FuncAnimation(fig, animate, frames=72, interval=500, blit=True)
+
+plt.title("3-Link Planar Arm Rotation")
+plt.show()
